@@ -7,19 +7,19 @@
 - Текст ошибки: "На диске D: недостаточно места для создания временных файлов, необходимых для Revit. Либо освободите пространство на этом диске, либо переопределите системную переменную TMP Windows, чтобы она указывала на папку другого диска, где есть свободное место."
 - Текст ошибки eng: "There is not enough space on drive C: to create the temporary files that Revit needs. Either free up space on this drive, or redefine Windows user variable TMP to be a folder on another drive with more space."
 
-![[../resources/13. Ошибки и предупреждения/Ош_68.webp]]
+![[Ош_68.webp]]
 ## Вариант 2
 
 - Текст ошибки: "Объем памяти данного компьютера недостаточен для открытия файла ..... .rvt в Autodesk Revit 2019. Увеличьте объем доступной памяти или свяжитесь с отделом технической поддержки Autodesk для получения дополнительной информации."
 - Текст ошибки eng: "The amount of memory on this computer is insufficient to open the file ""....."" in Autodesk Revit 2019. Increase the amount of available memory or contact the Autodesk Technical Support department for more information."
 
-![[../resources/13. Ошибки и предупреждения/Ош_69.webp]]
+![[Ош_69.webp]]
 ## Вариант 3
 
 - Текст ошибки: "Недостаточно места на локальном диске. Данная операция не может быть завершена. Освободите место на диске и повторите попытку."
 - Текст ошибки eng: "There is not enough space on the local disk. This operation cannot be completed. Free up disk space and try again."
 
-![[../resources/13. Ошибки и предупреждения/Ош_70.webp]]
+![[Ош_70.webp]]
 # Возможные причины
 
 Заполнился объем оперативной памяти или операционного диска.
