@@ -127,7 +127,7 @@
 
 ## Видеоуроки по ключевым инструментам
 
-Если хочешь глубже разобраться с этими инструментами — рекомендую курс **«Autodesk Revit Архитектура: Продвинутый уровень»** от **[BIM.vc]([https://bim.vc/](https://bim.vc/edu/courses/autodesk-revit-arkhitektura-prodvinutyy-uroven/))**. Там есть отдельный блок **«Ключевые инструменты»**.
+Если хочешь глубже разобраться с этими инструментами — рекомендую курс **«Autodesk Revit Архитектура: Продвинутый уровень»** от **[BIM.vc](https://bim.vc/edu/courses/autodesk-revit-arkhitektura-prodvinutyy-uroven/)**. Там есть отдельный блок **«Ключевые инструменты»**.
 
 Ссылка на блок: [Ключевые инструменты — BIM.vc](https://bim.vc/edu/courses/autodesk-revit-arkhitektura-prodvinutyy-uroven/klyuchevye-instrumenty/)
 
